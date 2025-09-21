@@ -1,3 +1,7 @@
+assets:
+  input: public/assets
+  output: /assets
+  categories: [ "image" ]
 media:
   input: public/assets
   output: /assets
